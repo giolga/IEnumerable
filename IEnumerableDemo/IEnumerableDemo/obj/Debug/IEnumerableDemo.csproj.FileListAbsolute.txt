@@ -1,0 +1,7 @@
+C:\Users\Mikey\Desktop\C#\IEnumerableDemo\IEnumerableDemo\bin\Debug\IEnumerableDemo.exe.config
+C:\Users\Mikey\Desktop\C#\IEnumerableDemo\IEnumerableDemo\bin\Debug\IEnumerableDemo.exe
+C:\Users\Mikey\Desktop\C#\IEnumerableDemo\IEnumerableDemo\bin\Debug\IEnumerableDemo.pdb
+C:\Users\Mikey\Desktop\C#\IEnumerableDemo\IEnumerableDemo\obj\Debug\IEnumerableDemo.csproj.AssemblyReference.cache
+C:\Users\Mikey\Desktop\C#\IEnumerableDemo\IEnumerableDemo\obj\Debug\IEnumerableDemo.csproj.CoreCompileInputs.cache
+C:\Users\Mikey\Desktop\C#\IEnumerableDemo\IEnumerableDemo\obj\Debug\IEnumerableDemo.exe
+C:\Users\Mikey\Desktop\C#\IEnumerableDemo\IEnumerableDemo\obj\Debug\IEnumerableDemo.pdb

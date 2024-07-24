@@ -1,0 +1,7 @@
+C:\Users\Mikey\source\repos\IEnumerableDemo2\IEnumerableDemo2\bin\Debug\IEnumerableDemo2.exe.config
+C:\Users\Mikey\source\repos\IEnumerableDemo2\IEnumerableDemo2\bin\Debug\IEnumerableDemo2.exe
+C:\Users\Mikey\source\repos\IEnumerableDemo2\IEnumerableDemo2\bin\Debug\IEnumerableDemo2.pdb
+C:\Users\Mikey\source\repos\IEnumerableDemo2\IEnumerableDemo2\obj\Debug\IEnumerableDemo2.csproj.AssemblyReference.cache
+C:\Users\Mikey\source\repos\IEnumerableDemo2\IEnumerableDemo2\obj\Debug\IEnumerableDemo2.csproj.CoreCompileInputs.cache
+C:\Users\Mikey\source\repos\IEnumerableDemo2\IEnumerableDemo2\obj\Debug\IEnumerableDemo2.exe
+C:\Users\Mikey\source\repos\IEnumerableDemo2\IEnumerableDemo2\obj\Debug\IEnumerableDemo2.pdb
